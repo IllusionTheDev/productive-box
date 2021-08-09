@@ -14,4 +14,4 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: 144fb7c20d5d5b7997f91f0cd3c48f74
-          TIMEZONE: Europe/Lisbon
+          TIMEZONE: Portugal
